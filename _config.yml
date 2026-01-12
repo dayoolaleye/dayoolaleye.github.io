@@ -23,7 +23,7 @@ repository               : "dayoolaleye/dayoolaleye.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile2.png"
   name             : "Dr Dayo Olaleye"
   pronouns         : "she/her"  
   bio              : "Executive leader in data science driven technologies for Healthcare Innovation and Management."
