@@ -24,13 +24,13 @@ repository               : "dayoolaleye/dayoolaleye.github.io/"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Executive leader in data science driven technologies for Healthcare Innovation and Management"
-  location         : "Earth"
-  employer         : "Rutgers University"
+  name             : "Dr Dayo Olaleye"
+  pronouns         : "she/her"  
+  bio              : "Executive leader in data science driven technologies for Healthcare Innovation and Management."
+  location         : "New York Metro Area"
+  employer         : "Boston University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dayoolaleye25@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/temidayoadepoju/
+  linkedin         : temidayoadepoju
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
